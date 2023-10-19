@@ -17,3 +17,4 @@ The Item Management System is a web application built with Flask and Firebase th
 - Firebase Admin SDK
 
 ## Video
+https://www.youtube.com/watch?v=Cb4usmxJci4
